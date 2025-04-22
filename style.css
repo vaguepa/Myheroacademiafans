@@ -1,0 +1,104 @@
+h1{
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    }
+    #parte2{
+        color: rgb(100, 68, 1);
+        font-family: 'Courier New', Courier, monospace;
+        font-size: smaller;
+        background-color: rgb(243, 217, 210);
+    }
+        p{
+            color: black;
+            font-family: 'Times New Roman', Times, serif;
+            }
+            body{
+                background-color: rgb(244, 247, 192);
+                border: 10px solid rgb(241, 191, 135);
+                padding: 15px;
+                }
+                h2{
+                    color: darkblue;
+                    font-size: smaller;
+                }
+               h3{
+                
+                color: rgb(255, 162, 0);
+                font-size: smaller;
+
+                }
+               .Datosimportantes {
+                background-color: rgb(245, 206, 176);
+            }
+           P{
+            line-height: 20px;
+
+            }
+            P{
+               font-style: italic;
+      
+            }
+          div,.Datosimportantes,p{
+font-style:initial;
+color:rgb(128, 100, 10)
+
+
+          }
+        .texto1{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size:smaller;
+        }
+          
+          .texto2{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size:smaller;
+          }
+          .texto3{
+            font-size: smaller;
+            font-family: 'Courier New', Courier, monospace;
+                      }
+          #parte2,.IMPORTANTE,ol, h2{
+            color: cornflowerblue;
+
+
+          }       
+          .Cuadro{
+            width: 358px;
+            height: 222px;
+            background-color: rgb(231, 174, 174);
+            margin: 15px 0px 0px 15px;
+            border: 10px solid rgb(232, 204, 204);
+           padding: 15px;
+
+
+
+          }
+          .imgh{
+            width:210px;
+           position:relative;
+            top:-230px;
+            bottom:10px;
+            left:500px;
+            right:500px; 
+          }
+          .Titulo{
+            position:relative;
+            top:-250px;
+          }
+          .Datosimportantes{
+            position:relative;
+            top:-5px;
+
+
+          }
+        
+        article{
+          position:relative;
+          top:-250px;
+
+
+        }
+        .page-link{
+          background-color: rgb(246, 188, 225);
+        }
